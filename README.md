@@ -1,7 +1,7 @@
 # NTUST - Vehicle Control and Driver Assistance Systems (2025 Spring)
 
 **Author:** Corey  
-**Email:** B11103235@mail.ntust.edu.tw 
+**Email:** B11103235@mail.ntust.edu.tw  
 **Course:** Vehicle Control and Driver Assistance Systems (113-2), National Taiwan University of Science and Technology (NTUST)  
 **MATLAB Version:** R2024a  
 
