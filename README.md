@@ -1,7 +1,7 @@
-# NTUST - Vehicle Control and Driver Assistance Systems (2024 Fall)
+# NTUST - Vehicle Control and Driver Assistance Systems (2025 Spring)
 
 **Author:** Corey  
-**Course:** Vehicle Control and Driver Assistance Systems (113-1), National Taiwan University of Science and Technology (NTUST)  
+**Course:** Vehicle Control and Driver Assistance Systems (113-2), National Taiwan University of Science and Technology (NTUST)  
 **MATLAB Version:** R2024a  
 
 ## Disclaimer
@@ -9,7 +9,7 @@ Some of the scripts may contain bugs or incomplete logic.
 **No guarantee of correctness is provided.** Use at your own risk.
 
 ## Description
-This repository contains MATLAB code and related files for coursework and experiments conducted in the "Vehicle Control and Driver Assistance Systems" class (Fall 2024, 113-1) at NTUST.
+This repository contains MATLAB code and related files for coursework and experiments conducted in the "Vehicle Control and Driver Assistance Systems" class (Spring 2025, 113-2) at NTUST.
 
 ## Additional Information
 For more details, please refer to the following documentation:  
